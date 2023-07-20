@@ -1,0 +1,18 @@
+/* This is the software code to generate the AQI map for the Environmental Drone.
+The Environmental Drone is owned by Dr. Jason M. Zara, Dr. Vesna Zderic, Dr. Murray H. Loew, Dr. Erkinay Abliz, Dr. Shani Ross,
+Dr. Ahmed Jendoubi, Dr. Mohamed Chouikha, Dr. Gary Harris, Mr. James Griffin, Engineer Francis Olawuyi, Dr. Matthew Olawuyi,
+Engineer Joshua Olawuyi, Engineer Deborah Olawuyi, Engineer Joseph Olawuyi, Dr. Michael Olawuyi, Honorable Damilola Sunday Olawuyi
+and Dr. Esther Olawuyi.
+OLAWUYI RACETT NIGERIA LTD.,
+KEMP HOUSE, 160 CITY ROAD, 
+EC1V 2NX, LONDON, UNITED KINGDOM
+https://www.olawuyiracettnigerialtd.com
+tegae@gwmail.gwu.edu
+July 20, 2023.
+*/
+
+1. Calibrate the Gas Sensors Used. Some of them include (MQ2, MQ5, and MQ4 gas sensors, LPG gas sensors, CO2, and Gas sensors).
+2. Obtain measuremenet readings from every gas sensor each second (1 second) in ppm or ppb that the PePVEAT is enclosed with a container
+   containing 1 L of the Petroleum Product, for which adulteration is to be detected. This is to be done for TWO (2) FULL MINUTES
+   and this is known as the Gaseous Vapor Emission (GVE) Technique.
+3. Analyze the results using pre-known data parameters to determine if the petroleum product is pure or adulterated. 
